@@ -1,0 +1,26 @@
+<link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
+title {
+  font-family: 'Inter';
+  font-weight: bold;
+  font-size: 40px;
+}
+
+subtitle {
+  font-family: 'Inter';
+  font-weight: bold;
+  font-size: 25px;
+}
+
+normal {
+  font-family: 'Inter';
+  font-size: 12px;
+}
+
+body {
+  background-color: 1e2124;
+}
+
+link {
+  font-family: 'Inter';
+  font-size: 25px;
+}
