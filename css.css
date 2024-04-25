@@ -2,18 +2,18 @@
 page-title {
   font-family: 'Inter';
   font-weight: bold;
-  font-size: 40px;
+  font-size: 60px;
 }
 
 subtitle {
   font-family: 'Inter';
   font-weight: bold;
-  font-size: 25px;
+  font-size: 35px;
 }
 
 normal {
   font-family: 'Inter';
-  font-size: 12px;
+  font-size: 20px;
 }
 
 body {
@@ -22,5 +22,5 @@ body {
 
 link {
   font-family: 'Inter';
-  font-size: 25px;
+  font-size: 20px;
 }
