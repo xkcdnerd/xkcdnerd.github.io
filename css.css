@@ -20,7 +20,8 @@ body {
   background-color: 1e2124;
 }
 
-link {
+hyperlink {
   font-family: 'Inter';
   font-size: 20px;
+  font-color: 'Blue';
 }
