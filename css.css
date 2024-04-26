@@ -8,7 +8,7 @@ page-title {
 subtitle {
   font-family: 'Inter';
   font-weight: bold;
-  font-size: 50px;
+  font-size: 70px;
 }
 
 normal {
@@ -17,11 +17,17 @@ normal {
 }
 
 body {
-  background-color: 1e2124;
+  background-color: '#1e2124';
 }
 
 hyperlink {
   font-family: 'Inter';
   font-size: 20px;
-  font-color: 'Blue';
+  text-color: blue;
+}
+hyperlink.hover {
+  font-family: 'Inter';
+  font-size: 20px;
+  text-color: '#5865F2';
+}
 }
