@@ -18,15 +18,29 @@ normal {
   font-size: 20px;
   color: white;
 }
-
-hyperlink {
-  font-family: 'Inter';
-  font-size: 20px;
+a:link {
   color: #7289DA;
+  background-color: transparent;
+    font-size: 20px;
+  text-decoration: none;
 }
-hyperlink.hover {
-  font-family: 'Inter';
-  font-size: 20px;
+
+a:visited {
+  color: #7289DA;;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
   color: #5865F2;
+  background-color: transparent;
+    font-size: 20px;
+  text-decoration: underline;
 }
+
+a:active {
+  color: #5865F2;
+  background-color: transparent;
+    font-size: 20px;
+  text-decoration: underline;
 }
