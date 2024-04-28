@@ -48,3 +48,9 @@ a:active {
     font-size: 20px;
   text-decoration: underline;
 }
+
+.box{
+  border-radius: 20px; 
+  padding: 20px;
+  margin: 20px;
+}
