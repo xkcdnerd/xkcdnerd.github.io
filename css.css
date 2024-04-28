@@ -20,6 +20,7 @@ normal {
 }
 a:link {
   color: #7289DA;
+    font-family: 'Inter';
   background-color: transparent;
     font-size: 20px;
   text-decoration: underline;
@@ -27,12 +28,14 @@ a:link {
 
 a:visited {
   color: #7289DA;;
+    font-family: 'Inter';
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
   color: #5865F2;
+    font-family: 'Inter';
   background-color: transparent;
     font-size: 20px;
   text-decoration: underline;
@@ -40,6 +43,7 @@ a:hover {
 
 a:active {
   color: #5865F2;
+    font-family: 'Inter';
   background-color: transparent;
     font-size: 20px;
   text-decoration: underline;
