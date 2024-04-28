@@ -3,31 +3,31 @@ page-title {
   font-family: 'Inter';
   font-weight: bold;
   font-size: 150px;
+  font-color: white;
 }
 
 subtitle {
   font-family: 'Inter';
   font-weight: bold;
   font-size: 70px;
+  font-color: white;
 }
 
 normal {
   font-family: 'Inter';
   font-size: 20px;
-}
-
-body {
-  background-color: '#1e2124';
+  font-color: white;
 }
 
 hyperlink {
   font-family: 'Inter';
   font-size: 20px;
-  text-color: blue;
+  font-color: #7289DA;
 }
 hyperlink.hover {
   font-family: 'Inter';
   font-size: 20px;
-  text-color: '#5865F2';
+  text-color: #5865F2;
+  font-color: white;
 }
 }
