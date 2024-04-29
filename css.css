@@ -10,7 +10,7 @@ page-title {
   overflow: hidden;
   display: inline-block;
   vertical-align: bottom;
-  animation: typing 3s steps(30, end);
+  animation: typing 3s steps(1000, end);
         }
 
         @keyframes typing {
