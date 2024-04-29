@@ -4,6 +4,7 @@ page-title {
   font-weight: bold;
   font-size: 125px;
   color: white;
+  text-align: center;
 }
 .typing {
   overflow: hidden;
