@@ -21,7 +21,7 @@ function type() {
   if (i < txt.length) {
     document.getElementById("Hello World").innerHTML += txt.charAt(i);
     i++;
-    speed = Math.floor(Math.random() * 100);
+    var speed = Math.floor(Math.random() * 100);
     setTimeout(typeWriter, speed);
   }
 }
