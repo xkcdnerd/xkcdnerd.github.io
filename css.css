@@ -3,6 +3,31 @@ img.profile{
   box-shadow: 0 0 40px #ebe8e8;
   
 }
+.rainbow{
+            animation: styles 3s linear infinite;
+        }
+
+        @keyframes rainbow {
+            0% {
+                color: rgb(255 0 0);
+            }
+
+            25% {
+                color: rgb(255, 255, 0);
+            }
+
+            50% {
+                color: rgb(0, 255, 0);
+            }
+
+            75% {
+                color: rgb(0 100 255);
+            }
+            100% {
+                color: rgb(255 0 0);
+            }
+        }
+}
 page-title {
   font-family: 'Inter';
   font-weight: bold;
