@@ -1,4 +1,7 @@
-
+img.profile{
+  border-radius:50%;
+  
+}
 page-title {
   font-family: 'Inter';
   font-weight: bold;
