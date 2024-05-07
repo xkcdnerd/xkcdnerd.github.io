@@ -130,7 +130,14 @@ a:active {
 .box{
   border-radius: 20px; 
   background-color: #383a40;
-  box-shadow: 0 0 20px #ebe8e8;
+  box-shadow: 0 0 15px #ebe8e8;
   padding: 30px;
   margin: 30px;
+}
+.nav-bar-box{
+  border-radius: 20px; 
+  background-color: #383a40;
+  box-shadow: 0 0 10px #ebe8e8;
+  padding: 10px;
+  margin: 10px;
 }
