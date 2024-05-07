@@ -13,7 +13,7 @@ ul {
 }
 
 li {
-  float: left;  color: #fff;
+  float: left;
 }
 
 li a {
@@ -28,6 +28,7 @@ li a {
 
 li a:hover:not(.active) {
   background-color: #5865F2;
+    color: #fff;
 }
 
 li a.active {
