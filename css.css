@@ -13,7 +13,7 @@ ul {
 }
 
 li {
-  float: left;
+  float: left;  color: #fff;
 }
 
 li a {
