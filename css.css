@@ -95,7 +95,7 @@ page-title {
   font-weight: bold;
   font-size: 125px;
   color: white;
-    line-height: 1.8;
+    line-height: 1.5;
   text-align: center;
 }
 .typing {
@@ -116,7 +116,7 @@ page-title {
         }
 subtitle {
   font-family: 'Inter';
-    line-height: 1.8;
+    line-height: 1.5;
   font-weight: bold;
   font-size: 70px;
   color: white;
@@ -126,21 +126,21 @@ normal {
   font-family: 'Inter';
   font-size: 20px;
   color: white;
-    line-height: 1.8;
+    line-height: 1.5;
 }
 a:link {
   color: #7289DA;
     font-family: 'Inter';
   background-color: transparent;
     font-size: 20px;
-    line-height: 1.8;
+    line-height: 1.5;
   text-decoration: underline;
 }
 
 a:visited {
   color: #7289DA;;
     font-family: 'Inter';
-    line-height: 1.8;
+    line-height: 1.5;
   background-color: transparent;
   text-decoration: none;
 }
