@@ -5,6 +5,9 @@ img.profile{
 img.box{
   border-radius:20px
   box-shadow: 0 0 10px #ebe8e8;
+    padding: 0px;
+
+  
 }
 ul {
   list-style-type: none;
