@@ -1,7 +1,10 @@
 img.profile{
   border-radius:50%;
   box-shadow: 0 0 20px #ebe8e8;
-  
+}
+img.box{
+  border-radius:20px
+  box-shadow: 0 0 10px #ebe8e8;
 }
 ul {
   list-style-type: none;
