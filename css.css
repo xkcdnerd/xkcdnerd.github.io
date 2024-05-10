@@ -36,6 +36,10 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
   font-family: 'Inter';
+  
+  transition: background-color 500ms ease-out;
+  
+  transition: color 500ms ease-out;
 }
 
 li a:hover:not(.active) {
@@ -149,7 +153,7 @@ a:active {
 .box{
   border-radius: 20px; 
   background-color: #383a40;
-  box-shadow: 0 0 15px #ebe8e8;
+  box-shadow: 0 0 12px #ebe8e8;
   padding: 30px;
   margin: 30px;
   transition: box-shadow 500ms ease-out
