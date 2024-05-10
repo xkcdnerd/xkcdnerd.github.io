@@ -1,6 +1,14 @@
 img.profile{
   border-radius:50%;
-  box-shadow: 0 0 20px #ebe8e8;
+  box-shadow: 0 0 15px #ebe8e8;
+  transition: width 500ms ease-out;
+  transition: height 500ms ease-out;
+  transition: box-shadow 500ms ease-out;
+}
+img.profile:hover{
+      width: 275px;
+  height: 275px
+  box-shadow: 0 0 30px #ebe8e8;
 }
 img.box{
   border-radius:20px
