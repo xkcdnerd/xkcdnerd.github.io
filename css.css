@@ -7,7 +7,7 @@ img.profile{
 }
 img.profile:hover{
       width: 275px;
-  height: 275px
+  height: 275px;
   box-shadow: 0 0 30px #ebe8e8;
 }
 img.box{
