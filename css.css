@@ -1,13 +1,12 @@
 img.profile{
   border-radius:50%;
   box-shadow: 0 0 15px #ebe8e8;
-  transition: width 500ms ease-out;
-  transition: height 500ms ease-out;
+  transition: scale 500ms ease-out;
+  scale: 1
   transition: box-shadow 500ms ease-out;
 }
 img.profile:hover{
-      width: 275px;
-  height: 275px;
+scale: 1.2
   box-shadow: 0 0 30px #ebe8e8;
 }
 img.box{
@@ -161,7 +160,7 @@ a:active {
 .box{
   border-radius: 20px; 
   background-color: #383a40;
-  box-shadow: 0 0 12px #ebe8e8;
+
   padding: 30px;
   margin: 30px;
   transition: box-shadow 500ms ease-out
