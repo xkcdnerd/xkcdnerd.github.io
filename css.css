@@ -9,18 +9,26 @@ img.profile:hover{
 }
 img.box{
   border-radius:20px
+    
   box-shadow: 0 0 10px #ebe8e8;
     padding: 0px;
 
-  
+bar{
+    border-radius:10px
+    background-color: #696a6e;
+    transition: all 500ms ease-out;
 }
-topnavbar {
-  margin: 0;
-  padding: 0;
+active-bar{
+      border-radius:10px
+    background-color: #5865F2;
+}
+  bar:hover{
+        border-radius:12px
+    background-color: #76767a;
 
-    column-count: 12;
-  background-color: #383a40;
+  }
 }
+
 /* thx to w3schools for this awesome code */
 .split {
   column-count: 2;
