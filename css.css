@@ -13,13 +13,17 @@ img.box{
   box-shadow: 0 0 10px #ebe8e8;
     padding: 0px;
 
-bar{
+bar {
     border-radius:10px
     background-color: #696a6e;
+    padding: 5px;
+  margin: 5px;
     transition: all 500ms ease-out;
 }
-active-bar{
+active-bar {
       border-radius:10px
+            padding: 5px;
+  margin: 5px;
     background-color: #5865F2;
 }
   bar:hover{
