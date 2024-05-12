@@ -1,10 +1,10 @@
 img.profile{
   border-radius:50%;
   box-shadow: 0 0 15px #ebe8e8;
-  transition: box-shadow 500ms ease-out;
+  transition: all 500ms ease-out;
 }
 img.profile:hover{
-  transform: scale(1.2);
+  transform: scale(1.05);
   box-shadow: 0 0 30px #ebe8e8;
 }
 img.box{
@@ -158,10 +158,9 @@ a:active {
 .box{
   border-radius: 20px; 
   background-color: #383a40;
-
   padding: 30px;
   margin: 30px;
-  transition: box-shadow 500ms ease-out
+  transition: all 500ms ease-out;
 }
 .nav-bar-box{
   border-radius: 20px; 
@@ -176,4 +175,5 @@ a:active {
 }
 .box:hover {
   box-shadow: 0 0 20px #ebe8e8;
+    transform: scale(1.00255);
 }
