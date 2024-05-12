@@ -14,12 +14,11 @@ img.box{
 
   
 }
-ul {
-  list-style-type: none;
+topnavbar {
   margin: 0;
   padding: 0;
-  overflow: hidden;
 
+    column-count: 12;
   background-color: #383a40;
 }
 /* thx to w3schools for this awesome code */
