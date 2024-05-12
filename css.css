@@ -1,12 +1,10 @@
 img.profile{
   border-radius:50%;
   box-shadow: 0 0 15px #ebe8e8;
-  transition: scale 500ms ease-out;
-  scale: 1
   transition: box-shadow 500ms ease-out;
 }
 img.profile:hover{
-scale: 1.2
+  transform: scale(1.2);
   box-shadow: 0 0 30px #ebe8e8;
 }
 img.box{
