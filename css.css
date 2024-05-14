@@ -28,36 +28,34 @@ ul {
   
 }
 
+ul {
+  list-style-type: none;
+  margin: ;
+  padding: 12px;
+  overflow: hidden;
+
+}
+
 li {
   float: left;
-    text-decoration: none;
 }
 
 li a {
-      text-decoration: none;
-  display: block;
-  border-radius: 10px
-  color: #fff;
+  display: -webkit-;
+  color: white;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
-  font-family: 'Inter';
-  
-  transition: background-color 500ms ease-out;
-  
-  transition: color 500ms ease-out;
+  text-decoration: none; 
+  -webkit-border-radius: 10px
 }
 
 li a:hover:not(.active) {
   background-color: #5865F2;
-    text-decoration: none;
-    color: #fff;
+  color: white;
 }
 
 li a.active {
-  color: white;
-    text-decoration: none;
-  background-color: #5865F2;
+  background-color: #5865F2;;  color: white;
 }
 
 .styles-animation{
