@@ -165,10 +165,10 @@ a:active {
 .nav-bar-box{
   border-radius: 20px; 
   background-color: #383a40;
-  box-shadow: 0 0 5px #ebe8e8;
+  box-shadow: 0 0 0px #ebe8e8;
   padding: 10px;
   margin: 10px;
-  transition: box-shadow 500ms ease-out
+  transition: all 500ms ease-out
 .nav-bar-box:hover {
   box-shadow: 0 0 12px #ebe8e8;
 }
