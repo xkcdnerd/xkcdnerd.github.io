@@ -19,12 +19,13 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-
+    text-decoration: none;
   background-color: #383a40;
 }
 /* thx to w3schools for this awesome code */
 .split {
   column-count: 2;
+  
 }
 
 li {
@@ -33,7 +34,7 @@ li {
 }
 
 li a {
-  
+      text-decoration: none;
   display: block;
   border-radius: 10px
   color: #fff;
@@ -128,7 +129,7 @@ a:link {
   background-color: transparent;
     font-size: 20px;
     line-height: 1.5;
-  text-decoration: underline;
+
 }
 
 a:visited {
@@ -144,7 +145,7 @@ a:hover {
     font-family: 'Inter';
   background-color: transparent;
     font-size: 20px;
-  text-decoration: underline;
+
 }
 
 a:active {
@@ -152,7 +153,7 @@ a:active {
     font-family: 'Inter';
   background-color: transparent;
     font-size: 20px;
-  text-decoration: underline;
+
 }
 
 .box{
