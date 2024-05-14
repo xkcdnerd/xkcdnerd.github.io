@@ -9,36 +9,23 @@ img.profile:hover{
 }
 img.box{
   border-radius:20px
-    
   box-shadow: 0 0 10px #ebe8e8;
     padding: 0px;
+
+  
 }
-.bar {
-    border-radius:10px
-    background-color: #696a6e;
-    padding: 5px;
-  margin: 5px;
-    transition: all 500ms ease-out;
+topnavbar {
+  margin: 0;
+  padding: 0;
+
+    column-count: 12;
+  background-color: #383a40;
 }
-
-.active-bar {
-      border-radius:10px
-            padding: 5px;
-  margin: 5px;
-    background-color: #5865F2;
-}
-  .bar:hover{
-        border-radius:12px
-    background-color: #76767a;
-
-  }
-
-
 /* thx to w3schools for this awesome code */
 .split {
   column-count: 2;
 }
-/*
+
 li {
   float: left;
     text-decoration: none;
@@ -69,7 +56,7 @@ li a.active {
   color: white;
     text-decoration: none;
   background-color: #5865F2;
-} */
+}
 
 .styles-animation{
             animation: styles 3s linear infinite;
@@ -177,9 +164,9 @@ a:active {
 .nav-bar-box{
   border-radius: 20px; 
   background-color: #383a40;
+  box-shadow: 0 0 5px #ebe8e8;
   padding: 10px;
   margin: 10px;
-  column-count: 8;
   transition: box-shadow 500ms ease-out
 .nav-bar-box:hover {
   box-shadow: 0 0 12px #ebe8e8;
