@@ -51,12 +51,12 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: #5865F2;
+  background-color: #484b53;
   color: white;
 }
 
 li a.active {
-    background-color: #484b53;  color: white;
+    background-color: #5865F2;  color: white;
 }
 
 .styles-animation{
