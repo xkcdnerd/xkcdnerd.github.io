@@ -20,6 +20,7 @@ img.box{
   margin: 5px;
     transition: all 500ms ease-out;
 }
+
 .active-bar {
       border-radius:10px
             padding: 5px;
@@ -37,7 +38,7 @@ img.box{
 .split {
   column-count: 2;
 }
-
+/*
 li {
   float: left;
     text-decoration: none;
@@ -68,7 +69,7 @@ li a.active {
   color: white;
     text-decoration: none;
   background-color: #5865F2;
-}
+} */
 
 .styles-animation{
             animation: styles 3s linear infinite;
@@ -176,9 +177,9 @@ a:active {
 .nav-bar-box{
   border-radius: 20px; 
   background-color: #383a40;
-  box-shadow: 0 0 5px #ebe8e8;
   padding: 10px;
   margin: 10px;
+  column-count: 8;
   transition: box-shadow 500ms ease-out
 .nav-bar-box:hover {
   box-shadow: 0 0 12px #ebe8e8;
