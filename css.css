@@ -27,7 +27,12 @@ ul {
   column-count: 2;
   
 }
-
+.triplesplit {
+  column-count: 3;
+}
+.quadsplit {
+  column-count: 4;
+}
 ul {
   list-style-type: none;
   margin: ;
