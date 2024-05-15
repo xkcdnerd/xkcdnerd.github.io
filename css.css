@@ -32,6 +32,11 @@ ul {
 .useless-padding{
   padding: 10px;
 }
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #383a40;
+}
 .column {
   display: flex;
   flex-direction: column;
