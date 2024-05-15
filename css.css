@@ -43,6 +43,10 @@ ul {
   margin: 30px;
   transition: all 500ms ease-out;
 }
+.column:hover {
+    box-shadow: 0 0 20px #ebe8e8;
+    transform: scale(1.005);
+}
 ul {
   list-style-type: none;
   margin: ;
@@ -190,5 +194,5 @@ a:active {
 }
 .box:hover {
   box-shadow: 0 0 20px #ebe8e8;
-    transform: scale(1.00255);
+    transform: scale(1.005);
 }
