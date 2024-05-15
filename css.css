@@ -37,6 +37,11 @@ ul {
   flex-direction: column;
   flex-basis: 100%;
   flex: 1;
+    border-radius: 20px; 
+  background-color: #383a40;
+  padding: 30px;
+  margin: 30px;
+  transition: all 500ms ease-out;
 }
 ul {
   list-style-type: none;
