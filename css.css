@@ -23,15 +23,20 @@ ul {
   background-color: #383a40;
 }
 /* thx to w3schools for this awesome code */
-.split {
-  column-count: 2;
-  
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
 }
-.triplesplit {
-  column-count: 3;
+.useless-padding{
+  padding: 10px;
 }
-.quadsplit {
-  column-count: 4;
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
 }
 ul {
   list-style-type: none;
